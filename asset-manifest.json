@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-a-movie/static/css/main.1c286d1f.css",
+    "main.js": "/find-a-movie/static/js/main.b8d8f009.js",
+    "static/js/787.ec704a7a.chunk.js": "/find-a-movie/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/find-a-movie/index.html",
+    "main.1c286d1f.css.map": "/find-a-movie/static/css/main.1c286d1f.css.map",
+    "main.b8d8f009.js.map": "/find-a-movie/static/js/main.b8d8f009.js.map",
+    "787.ec704a7a.chunk.js.map": "/find-a-movie/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c286d1f.css",
+    "static/js/main.b8d8f009.js"
+  ]
+}
